@@ -4,3 +4,5 @@ Porto Seguro.Rmd
 .ipynb_checkpoints/
 *.csv
 Kaggle Project RVO 1.ipynb
+autres_modeles.ipynb
+xgboost, Randomforrest.ipynb
